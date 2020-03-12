@@ -1,0 +1,2 @@
+git allows you to add files to a staging area and then allows you to commit it
+into into a repository.
